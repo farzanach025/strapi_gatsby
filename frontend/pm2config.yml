@@ -1,0 +1,2 @@
+name: blog
+script: gatsby serve
